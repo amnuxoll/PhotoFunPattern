@@ -2,6 +2,7 @@ package edu.up.cs371.epp.photofunpattern;
 
 //a useless comment
 //another useless comment
+//a third useless comment
 import android.support.v7.app.AppCompatActivity;
         import android.os.Bundle;
         import android.graphics.Bitmap;
